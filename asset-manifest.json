@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BarChartWithSignup/static/css/main.8e5b8d68.css",
-    "main.js": "/BarChartWithSignup/static/js/main.dd7aa70b.js",
+    "main.js": "/BarChartWithSignup/static/js/main.ce2c5159.js",
     "static/media/graph.png": "/BarChartWithSignup/static/media/graph.f5a888a3953e456cb594.png",
     "index.html": "/BarChartWithSignup/index.html",
     "main.8e5b8d68.css.map": "/BarChartWithSignup/static/css/main.8e5b8d68.css.map",
-    "main.dd7aa70b.js.map": "/BarChartWithSignup/static/js/main.dd7aa70b.js.map"
+    "main.ce2c5159.js.map": "/BarChartWithSignup/static/js/main.ce2c5159.js.map"
   },
   "entrypoints": [
     "static/css/main.8e5b8d68.css",
-    "static/js/main.dd7aa70b.js"
+    "static/js/main.ce2c5159.js"
   ]
 }
